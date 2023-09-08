@@ -20,3 +20,8 @@ class Rectangle {
         }
   
         console.log(myVar);
+      }
+    }
+  }
+  module.exports = Rectangle;
+  
